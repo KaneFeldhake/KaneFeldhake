@@ -8,7 +8,8 @@ Computer Science Student | Future Software Developer
 *   ✉️  You can contact me at [kaneofeldhake@gmail.com](mailto:kaneofeldhake@gmail.com)
 *   🧠  I'm learning programming challenges for technical interviews.
 *   🤝  I'm open to collaborating on Projects
-*   ⚡  What I don't know, I will learn! Skills 
+*   ⚡  What I don't know, I will learn! 
+*   Skills 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
